@@ -6,8 +6,8 @@
 // problem. Create an include/private_ssid_config.h file with the following two
 // definitions uncommented:
 //
-// #define WIFI_SSID "mywifissid"
-// #define WIFI_PASS "my secret password"
+#define WIFI_SSID "mywifissid"
+#define WIFI_PASS "my secret password"
 //
 
 #ifndef __SSID_CONFIG_H__
